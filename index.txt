@@ -1,0 +1,9 @@
+Hello World
+L'emplacement de votre nouveau matériel est-il à proximité (moins de 5m) d'une prise réseau libre ? Si oui, relevez le numéro de la prise (il est écrit sur une plaque de céramique bleue, il faut respecter la distinction entre lettres majuscules et minuscules). Sinon, il faut faire installer une nouvelle prise par le Service Travaux, auquel vous devrez adresser un bon de cession interne. La suite des opérations aura lieu quand vous aurez une prise disponible. Dans le doute, interrogez par courrier électronique netadm@pasteur.fr.
+
+Votre demande doit nous parvenir par l'intermédiaire du correspondant informatique de votre Unité. Elle se composera de deux parties : un bon de cession interne envoyé au Service Informatique Scientifique et un courrier électronique adressé à netadm@pasteur.fr qui contiendra toutes les informations utiles (dont le numéro du bon de cession).
+
+le premier élément
+le deuxième élément
+le troisième élément
+Vous trouverez ici la suite du texte !!
